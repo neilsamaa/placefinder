@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Place Finder</string>
+    <string name="google_maps_key">AIzaSyBNiad9-xGx2Qf_eIJC9SVRmv4bJpGyDno</string>
+    <string-array name="cari_tempat">
+        <item>--Cari Tempat--</item>
+        <item>SPBU</item>
+        <item>Restoran</item>
+        <item>Kantor Polisi</item>
+        <item>Tempat Wisata</item>
+        <item>Sekolah</item>
+        <item>Kantor Pemerintah</item>
+    </string-array>
+</resources>
